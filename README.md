@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Face Recognition Attendance Tracker Project**
 
-- 🌱 I’m currently learning **python, pandas, OpenCV, tkinter**
+- 🌱 I’m currently learning **Python, Pandas, OpenCV, Tkinter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravisha10](https://github.com/Ravisha10)
 
