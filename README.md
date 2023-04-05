@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif">
 //read me
 //read me
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisha10&label=Profile%20views&color=0e75b6&style=flat" alt="ravisha10" /> </p>
 
 - 🔭 I’m currently working on **Face Recognition Attendance Tracker Project**
