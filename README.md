@@ -6,8 +6,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on **Face Recognition Attendance Tracker Project**
 
 - 🌱 I’m currently learning **Python, Pandas, OpenCV, Tkinter**
