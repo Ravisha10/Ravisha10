@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravisha10](https://github.com/Ravisha10)
 
-
-
 - 💬 Ask me about **C++, JAVA, HTML, CSS, JS, DSA**
 
 - ⚡ Fun fact **I like sketching and playing Basketball**
