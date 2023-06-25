@@ -3,11 +3,13 @@
 <h3 align="center">A passionate tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisha10&label=Profile%20views&color=0e75b6&style=flat" alt="ravisha10" /> </
+
 - 🔭 I’m currently working on **Face Recognition Attendance Tracker Project**
 - 🌱 I’m currently learning **Python, Pandas, OpenCV, Tkinter**
 - 👨‍💻 All of my projects are available at [https://github.com/Ravisha10](https://github.com/Ravisha10)
 - 💬 Ask me about **C++, JAVA, HTML, CSS, JS, DSA**
 - ⚡ Fun fact **I like sketching and playing Basketball**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/ravisha__10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravisha__10" height="30" width="40" /></a>
