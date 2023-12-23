@@ -10,7 +10,7 @@
 - 👨‍💻 Some of my projects are available at [https://github.com/Ravisha10](https://github.com/Ravisha10)
 - 💬 Ask me about **C++, JAVA, HTML, CSS, JS, DSA**
 - ⚡ Fun fact **I like sketching and playing Basketball**
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/ravisha__10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravisha__10" height="30" width="40" /></a>
